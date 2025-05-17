@@ -1,2 +1,1 @@
-# BashScriptWget
-Test the Wget command in Bash
+# It's A Test Repository To test the command wget
